@@ -72,7 +72,4 @@ The closing prices is graphed and the selling and buying days are marked with th
 
 
 
-# G00D LUCK
 
-For doubts email me at:
-atinsaki@gmail.com
